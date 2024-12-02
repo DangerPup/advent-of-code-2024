@@ -41,6 +41,10 @@ while (i<retList.__len__()):
     lRight.append(int(retList[i].split(None, -1)[1]))
     i+=1
 
+# Sort each list to speed up comparisons.
+lLeft.sort()
+lRight.sort()
+
 # 2. for each number in left list get number of occurences in right list.
 i=0
 similarityScore=0
