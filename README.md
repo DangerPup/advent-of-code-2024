@@ -1,5 +1,4 @@
-# advent-of-code-2024
-Advent of Code 2024
+** Advent of Code 2024 **
 
 [Advent of Code 2024](https://adventofcode.com/2024)
 
@@ -10,4 +9,5 @@ Most of these will be written in Python in order to keep those skills sharp, but
 I do also enjoy seeing how AI chatbots do with these challenges, not only to learn some other languages or ways to work with a language, but also to work on my prompt creation. If a solution involves AI then it will be noted.
 
 
-[Day 01](https://adventofcode.com/2024/day/1) - 2 stars
+- [x] [Day 01](https://adventofcode.com/2024/day/1) :star: :star:
+- [ ] [Day 02](https://adventofcode.com/2024/day/2) - 
