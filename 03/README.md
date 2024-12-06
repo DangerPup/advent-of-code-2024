@@ -8,3 +8,7 @@ Programming Language: Python
 - In part 2, I had trouble with a bad placement of the `do` variable :confounded:
 - Tested part 2 with both a match list and match iterater, either way works. The iterator is a little cleaner and you don't need to worry about incrementing the loop counter.
 - I need to learn more about opening and reading the files, either to smush all lines together or have them already converted from binary to string.
+
+*Puzzle answers for my puzzle input:*
+1. 174103751
+2. 100411201
