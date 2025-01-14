@@ -15,7 +15,7 @@ I do also enjoy seeing how AI chatbots do with these challenges, not only to lea
 - [x] [Day 04](https://adventofcode.com/2024/day/4) :star: :star:
 - [x] [Day 05](https://adventofcode.com/2024/day/5) :star: :star:
 - [ ] [Day 06](https://adventofcode.com/2024/day/6) :star: :grey_question:
-- [ ] [Day 07](https://adventofcode.com/2024/day/7) :grey_question:
+- [ ] [Day 07](https://adventofcode.com/2024/day/7) :star: :grey_question:
 - [ ] [Day 08](https://adventofcode.com/2024/day/8) :grey_question:
 - [ ] [Day 09](https://adventofcode.com/2024/day/9) :grey_question:
 - [ ] [Day 10](https://adventofcode.com/2024/day/10) :grey_question:
